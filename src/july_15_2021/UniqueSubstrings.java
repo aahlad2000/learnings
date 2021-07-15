@@ -1,4 +1,6 @@
 package july_15_2021;
+/*https://practice.geeksforgeeks.org/problems/unique-substrings0524/0/?category[]=Java-Collections&category[]
+=Java-Collections&difficulty[]=0&page=1&query=category[]Java-Collectionsdifficulty[]0page1category[]Java-Collections*/
 class Solution{
 
     public static int unique_substring(String str){

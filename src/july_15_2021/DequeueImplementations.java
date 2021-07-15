@@ -1,7 +1,8 @@
 package july_15_2021;
 
-
-//Function to push element x to the back of the deque.
+/*https://practice.geeksforgeeks.org/problems/deque-implementations/0/?category[]=Java-Collections&category[]=Java
+-Collections&difficulty[]=0&page=1&query=category[]Java-Collectionsdifficulty[]0page1category[]Java-Collections*/
+ */
 public static void push_back_pb(ArrayDeque<Integer> dq, int x)
         {
 
