@@ -1,8 +1,10 @@
 package july_17_2021;
 
+import java.util.Stack;
+
 /*https://practice.geeksforgeeks.org/problems/java-collections-set-1-stack5707/0/?category[]=
 Java&category[]=Java&problemStatus=solved&page=1&query=category[]JavaproblemStatussolvedpage1category[]Java*/
-class Solution{
+class StackOp {
     static Stack<Integer> deleteMid(int n, Stack<Integer> st)
     {
         Stack<Integer> st1 = new Stack<>();

@@ -3,7 +3,7 @@ package July_18_2021;
 emStatus=unsolved&page=1&query=category[]JavaproblemStatusunsolvedpage1category[]Java#*/
 
 
-class Solution {
+class StringReversal {
     static String conRevstr(String S1, String S2) {
         String str = "";
         str = S1+S2;

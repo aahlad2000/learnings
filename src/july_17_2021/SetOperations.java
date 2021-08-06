@@ -1,5 +1,10 @@
 package july_17_2021;
-  /*https://practice.geeksforgeeks.org/problems/java-collection-set-2
+
+import java.util.Iterator;
+import java.util.Set;
+import java.util.TreeSet;
+
+/*https://practice.geeksforgeeks.org/problems/java-collection-set-2
   -set/0/?category[]=Java&category[]=Java&problemStatus=solved&page=1&query=category[]JavaproblemStatussolvedpage1category[]Java*/
 class GfG
 {
@@ -13,7 +18,7 @@ class GfG
     void print_contents(Set<Integer> s)
     {
         TreeSet<Integer> sorted = new TreeSet<Integer>(s);
-        Iterator  it = sorted.iterator();
+        Iterator it = sorted.iterator();
         while(it.hasNext()){
             System.out.print(it.next() + " ");
         }

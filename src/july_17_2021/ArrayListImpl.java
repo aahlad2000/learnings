@@ -1,8 +1,11 @@
 package july_17_2021;
 
+import java.util.ArrayList;
+import java.util.Collections;
+
 /*https://practice.geeksforgeeks.org/problems/java-colle
 ction-set-1-arraylist/0/?category[]=Java&category[]=Java&problemStatus=solved&page=1&query=category[]JavaproblemStatussolvedpage1category[]Java*/
-class GfG
+class ArrayListImpl
 {
     /*inserts an element x at
     the back of the ArrayList A */

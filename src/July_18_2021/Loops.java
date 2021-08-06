@@ -3,7 +3,9 @@ package July_18_2021;
 t-11726/0/?category[]=Java&category[]=Java&problemStatus=unsolved&page=1&query=category[]JavaproblemStatusunsolvedpage1category[]Java#*/
 
 
-class Solution{
+import java.util.ArrayList;
+
+class Loops {
     static ArrayList<Integer> getSum(int N){
 
         ArrayList<Integer> list = new ArrayList<Integer>();

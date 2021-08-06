@@ -1,7 +1,11 @@
 package july_15_2021;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
 /*https://practice.geeksforgeeks.org/problems/common-elements5420/0/?category[]=Java-Collections&category[]=Java-
 Collections&difficulty[]=0&page=1&query=category[]Java-Collectionsdifficulty[]0page1category[]Java-Collections*/
-class Solution{
+class CommonElements {
     public static ArrayList<Integer> common_element(ArrayList<Integer>v1, ArrayList<Integer>v2)
     {
         ArrayList<Integer> comm = new ArrayList<Integer>();

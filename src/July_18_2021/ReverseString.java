@@ -3,7 +3,7 @@ package July_18_2021;
 /*https://practice.geeksforgeeks.org/problems/java-reverse-a-string0416/0/?category[]=Java&category[]=Java&problemStatus=unsolved&
 page=1&query=category[]JavaproblemStatusunsolvedpage1category[]Java*/
 
-class Solution {
+class ReverseString {
     static String revStr(String S) {
         String str = S;
         String rev = "";
